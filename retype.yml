@@ -1,0 +1,29 @@
+input: .
+output: .retype
+url: book.binkert-patrick.de
+branding:
+  title: Physik & Informatik
+  label: BvC
+  logoDark: /binkertpat.png    # Path to a logo file to use in dark mode
+  logoAlign: left            # Align the logo to the right or the left
+
+links:
+- text: book.binkert-patrick.de
+  link: https://book.binkert-patrick.de
+footer:
+  copyright: "&copy; Copyright {{ year }} Patrick Binkert. All rights reserved."
+
+editor:                       
+  enabled: true
+
+meta:
+  title: " | powered by binkert-patrick.de"
+
+locale: de
+
+search:
+  preload: true
+
+generator:
+  directoryIndex:
+    append: true

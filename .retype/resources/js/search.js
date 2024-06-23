@@ -1,0 +1,1 @@
+window.__DOCS_SEARCH__ = [[{"l":"Startseite"}],[{"l":"1. Einführung","p":["Coming soon ..."]}],[{"l":"1. Einführung","p":["Coming soon ..."]}]];

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://book.binkert-patrick.de/sitemap.xml.gz
